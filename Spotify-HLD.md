@@ -1,0 +1,1 @@
+![](spotify-system-design.drawio.png)
