@@ -1,0 +1,21 @@
+# my-system-designs
+
+- Entities in system
+- Usecases of system
+- Metrics - Ask about numbers
+  - Specify some key metrics to help you in high level decision making
+  - dont start with big at the begining but move step by step towards big.
+- Two way communication is very important. Ask more and more questions.
+- At early stage, focus on simple setup
+- Later on go into more complex setup
+- Layout system setup with basic components, database
+- Split databases appropriate for different types of data
+- Explain your decision making proactively. Its not about perfection. Its about contribution and collaboration.
+- Talk through the use cases to check your design (test the design) and identify bottlenecks.
+- Think about different solutions to identified bottlenecks.
+- Identify existing technologies like CDN, Caching, Load Balancing
+- Discuss how solutions such as caching apply at different levels in solution.
+- Load balancing is not one size fits all.
+- Consider multiple metrics when applying technologies such as load balancing.
+- Be open about the limits of your expertise.
+- Wrap up by outlining how the system design meets the provided requirements & think big and see future scalability and growth of the design.
