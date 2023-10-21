@@ -10,4 +10,4 @@ Types of Video Streaming
 
 ABS - Adaptive Bitrate Streaming (DASH supports it)
 
-![](./pics/dash/1.jpg)
+![](./pics/dash/1.png)
